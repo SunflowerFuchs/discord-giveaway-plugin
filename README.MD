@@ -1,6 +1,6 @@
 # Giveaway Plugin for SunflowerFuchs/discord-bot
 
-A plugin for [sunflowerfuchs/discord-bot]()
+A plugin for [sunflowerfuchs/discord-bot](https://github.com/SunflowerFuchs/discord-bot/)
 
 ## Installation
 

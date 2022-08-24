@@ -1,0 +1,19 @@
+{
+	"name": "sunflowerfuchs/discord-giveaway-plugin",
+	"description": "A plugin for sunflowerfuchs/discord-bot that allows you to set up simple giveaways.",
+	"type": "library",
+	"license": "MIT",
+	"readme": "./README.MD",
+	"autoload": {
+		"psr-4": {
+			"SunflowerFuchs\\DiscordBot\\GiveawayPlugin\\": "src/"
+		}
+	},
+	"require": {
+		"php": ">=8.1",
+		"sunflowerfuchs/discord-bot": "^v0.1.0",
+		"guzzlehttp/guzzle": "^7.2.0",
+		"spatie/emoji": "^3.0",
+		"pecee/pixie": "^4.15"
+	}
+}
